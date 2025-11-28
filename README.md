@@ -119,6 +119,8 @@ Example:
 RMSE: R² Score:
 
 Visualizations further help evaluate performance:
+![LinkedIn Dashboard](/images/img1.png)
+
 Feature correlations
 Actual vs predicted values
 Residual behavior
